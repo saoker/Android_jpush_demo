@@ -17,7 +17,7 @@ public class SokerActivity extends Activity {
         ExampleApplication.init(this);
 
         startActivity(new Intent(this, AppBarLayoutActivity.class));
-
+        //soker 一次提交
     }
 }
 
