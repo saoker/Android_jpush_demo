@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="textviewNormal">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/f_c7</item>
+        <item name="android:textSize">@dimen/dip_16</item>
+    </style>
+
+    <style name="linearLayoutNormal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/dip_20</item>
+        <item name="android:paddingBottom">@dimen/dip_20</item>
+        <item name="android:paddingLeft">@dimen/dip_15</item>
+        <item name="android:paddingRight">@dimen/dip_15</item>
+    </style>
+
+</resources>
